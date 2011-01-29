@@ -1,0 +1,10 @@
+div#header { background: url(/top_gradient.png) repeat-x; text-align: center; height: 100px; position: relative; color: #FFF; padding-top: 50px; font-size: 28px; }
+div.wrapper { width: 1000px; margin: 0px auto; }
+
+a { color: #000; text-decoration: none; outline: none; }
+div#nav a { padding: 10px; display: block; float: left; }
+div.wrapper div#products a { border: none; padding: 10px; display: block; width: 128px; float: left; }
+div.wrapper a img { border: none; }
+div.wrapper div#products { width: 60%; float: left; margin-bottom: 100px; }
+div.wrapper div#featured_product { width: 38%; float: right; text-align: center; }
+div.clear { clear: both; }
